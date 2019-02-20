@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>admin on Academic</title>
+    <title>admin on </title>
     <link>https://smozaffari.github.io/authors/admin/</link>
-    <description>Recent content in admin on Academic</description>
+    <description>Recent content in admin on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
@@ -17,7 +17,7 @@
       
       <guid>https://smozaffari.github.io/author/admin/</guid>
       <description>I&amp;rsquo;m a statistical geneticist interested in disentangling the relationship between genotype and phenotype in humans. I&amp;rsquo;m a problem solver driven to help advance our field in decoding the genome. My two main interests focus on how our genomes have evolved (from my background in development and evolution); as well as understanding how genetic variation contributes to human disease.
-I also enjoy sharing scientific knowledge, through discussion, art, and articles.&amp;rdquo;</description>
+I also enjoy sharing scientific knowledge, through discussion, art, and articles.</description>
     </item>
     
   </channel>

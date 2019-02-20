@@ -4,15 +4,15 @@
     
     <url>
     
-      <loc>https://smozaffari.github.io/author/admin/</loc>
+      <loc>https://smozaffari.github.io/</loc>
+      <priority>0</priority>
     </url>
     
   
     
     <url>
     
-      <loc>https://smozaffari.github.io/</loc>
-      <priority>0</priority>
+      <loc>https://smozaffari.github.io/author/admin/</loc>
     </url>
     
   
