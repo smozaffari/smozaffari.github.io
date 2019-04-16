@@ -6,10 +6,28 @@
     <description>Recent content in Authors on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 20 Oct 2016 00:00:00 -0700</lastBuildDate>
+    <lastBuildDate>Wed, 18 Jul 2018 00:00:00 -0700</lastBuildDate>
     
 	<atom:link href="https://smozaffari.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>**Sahar Mozaffari**</title>
+      <link>https://smozaffari.github.io/authors/sahar-mozaffari/</link>
+      <pubDate>Wed, 18 Jul 2018 00:00:00 -0700</pubDate>
+      
+      <guid>https://smozaffari.github.io/authors/sahar-mozaffari/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>**Sahar V Mozaffari**</title>
+      <link>https://smozaffari.github.io/authors/sahar-v-mozaffari/</link>
+      <pubDate>Fri, 18 Jan 2019 00:00:00 -0800</pubDate>
+      
+      <guid>https://smozaffari.github.io/authors/sahar-v-mozaffari/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Aaron M Zorn</title>
@@ -674,24 +692,6 @@
       <pubDate>Thu, 20 Oct 2016 00:00:00 -0700</pubDate>
       
       <guid>https://smozaffari.github.io/authors/ryan-lister/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Sahar Mozaffari</title>
-      <link>https://smozaffari.github.io/authors/sahar-mozaffari/</link>
-      <pubDate>Wed, 18 Jul 2018 00:00:00 -0700</pubDate>
-      
-      <guid>https://smozaffari.github.io/authors/sahar-mozaffari/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Sahar V Mozaffari</title>
-      <link>https://smozaffari.github.io/authors/sahar-v-mozaffari/</link>
-      <pubDate>Fri, 18 Jan 2019 00:00:00 -0800</pubDate>
-      
-      <guid>https://smozaffari.github.io/authors/sahar-v-mozaffari/</guid>
       <description></description>
     </item>
     
