@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Anne E Eyler on </title>
+    <link>https://smozaffari.github.io/authors/anne-e-eyler/</link>
+    <description>Recent content in Anne E Eyler on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 01 Aug 2015 00:00:00 -0700</lastBuildDate>
+    
+	<atom:link href="https://smozaffari.github.io/authors/anne-e-eyler/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>A gene-based association method for mapping traits using reference transcriptome data</title>
+      <link>https://smozaffari.github.io/publication/gamazon-2015-fa/</link>
+      <pubDate>Sat, 01 Aug 2015 00:00:00 -0700</pubDate>
+      
+      <guid>https://smozaffari.github.io/publication/gamazon-2015-fa/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

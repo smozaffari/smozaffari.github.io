@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yuzuru Ito on </title>
+    <link>https://smozaffari.github.io/authors/yuzuru-ito/</link>
+    <description>Recent content in Yuzuru Ito on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 01 Oct 2016 00:00:00 -0700</lastBuildDate>
+    
+	<atom:link href="https://smozaffari.github.io/authors/yuzuru-ito/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Genome evolution in the allotetraploid frog Xenopus laevis.</title>
+      <link>https://smozaffari.github.io/publication/session-2016-ky/</link>
+      <pubDate>Sat, 01 Oct 2016 00:00:00 -0700</pubDate>
+      
+      <guid>https://smozaffari.github.io/publication/session-2016-ky/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
