@@ -1708,7 +1708,7 @@ a.badge:hover {
 }
 
 .navbar-light {
-  background: #b75d69 !important;
+  background: #1d3557 !important;
   box-shadow: 0 0.125rem 0.25rem 0 rgba(0,0,0,.11)
 }
 
@@ -1775,7 +1775,7 @@ nav#navbar-main li.nav-item {
 }
 
 .dropdown-menu {
-  background-color: #b75d69 !important;
+  background-color: #1d3557 !important;
 }
 
 .dropdown-menu > li > a {
@@ -1792,13 +1792,13 @@ nav#navbar-main li.nav-item {
 .dropdown-menu>li>a:hover {
   color: #eacdc2;
   text-decoration: none;
-  background-color: #b75d69;
+  background-color: #1d3557;
 }
 
 .dropdown-menu > .active,
 .dropdown-menu > .active:focus,
 .dropdown-menu > .active:hover {
-  color: #b75d69;
+  color: #1d3557;
   text-decoration: none;
   background-color: #eacdc2;
   outline: 0;
@@ -1809,7 +1809,7 @@ nav#navbar-main li.nav-item {
 .navbar-light .navbar-nav>.open>a:hover,
 .navbar-light .navbar-nav>.open>a:visited {
   color: #774c60 !important;
-  background-color: #b75d69 !important;
+  background-color: #1d3557 !important;
 }
 
 .navbar-light .navbar-brand {
