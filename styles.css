@@ -608,7 +608,7 @@ a[data-fancybox] img {
 }
 
 .wg-hero .btn {
-  color: #372549;
+  color: #eacdc2;
   padding: .6em 2.1em;
 }
 
@@ -1581,7 +1581,7 @@ a.badge:hover {
 .tag-cloud a:active,
 .tag-cloud a:focus,
 .tag-cloud a:hover {
-  color: #372549;
+  color: #eacdc2;
   transform: scale(1.2);
 }
 
@@ -1690,7 +1690,7 @@ a.badge:hover {
 
 .btn-toolbar .btn.btn-primary:active,
 .btn-toolbar .btn.btn-primary.active {
-  background-color: #372549 !important;
+  background-color: #eacdc2 !important;
 }
 
 .btn-primary:not(:disabled):not(.disabled).active:focus,
@@ -2262,7 +2262,7 @@ ul.toc-top {
 
 .anchorjs-link {
   font-weight: 400;
-  color: #372549;
+  color: #eacdc2;
   transition: color .16s linear;
 }
 
@@ -2293,7 +2293,7 @@ body.dark,
 .dark .form-control:focus {
   background-color: rgb(68, 71, 90);
   border-color: #1a1423;
-  box-shadow: 0 0 0 .2rem #372549;
+  box-shadow: 0 0 0 .2rem #eacdc2;
 }
 
 .dark h1,
