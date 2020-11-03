@@ -526,11 +526,11 @@ a[data-fancybox] img {
 }
 
 .dark .home-section {
-  background-color: hsla(231, 15%, 18%, 1);
+  background-color: rgb(255, 255, 255);
 }
 
 .dark .home-section:nth-of-type(even) {
-  background-color: hsla(231, 15%, 16%, 1);
+  background-color: rgb(247, 247, 247);
 }
 
 @media screen and (max-width: 768px) {
