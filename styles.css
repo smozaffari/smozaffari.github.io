@@ -526,7 +526,7 @@ a[data-fancybox] img {
 }
 
 .dark .home-section {
-  background-color: rgb(255, 255, 255);
+  background-color: #eacdc2;
 }
 
 .dark .home-section:nth-of-type(even) {
